@@ -1,18 +1,23 @@
 # Habnetic
 
-Habnetic is an open research initiative exploring probabilistic models
-for resilient housing and habitat systems.
+Habnetic is an open research project developing Bayesian methods for posterior decision stability and robust prioritisation under uncertainty.
+
+Current research focuses on urban flood prioritisation using Rotterdam as a baseline case study, followed by cross-city transfer experiments in Hamburg and Donostia-San Sebastián.
 
 ## Stewardship
 
-Habnetic is initiated and currently stewarded by **Mikel Martinez Mugica**.
-Development happens openly under permissive licenses.
-Strategic direction and organizational control currently rest with **Mikel Martinez Mugica**.
+Habnetic is founded and stewarded by **Mikel Martínez Mugica**.
+
+Development is conducted openly under permissive open-source licenses. Strategic direction and project governance currently remain with the founder.
 
 ## Core repositories
+
 - resilient-housing-bayes
 - data
 - docs
 
-🌐 https://habnetic.org  
-📫 info@habnetic.org
+## Links
+
+🌐 Website: https://habnetic.org  
+🆔 ORCID: https://orcid.org/0009-0006-5170-4405  
+📫 Email: info@habnetic.org
